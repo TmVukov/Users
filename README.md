@@ -1,4 +1,4 @@
-#Basic Info
+##Basic Info
 
 Password should contain at least 6 characters.
 
