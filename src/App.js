@@ -3,7 +3,7 @@ import Login from './components/login/Login'
 import Signup from './components/signup/Signup'
 import Homepage from './components/homepage/Homepage'
 import PrivateRoute from './components/PrivateRoute'
-import { BrowserRouter as Router, Switch, Route } from 'react-router-dom'
+import { HashRouter as Router, Switch, Route } from 'react-router-dom'
 
 function App() {
   return (
